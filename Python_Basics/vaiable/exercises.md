@@ -16,7 +16,6 @@ Ask the user **three times** to enter a number and keep adding it to `total`.
 At the end, print:  
 
 ---
-
 ### 3. Dynamic Typing Twist
 👉 Create a variable called `data`.  
 
@@ -51,3 +50,5 @@ x = y - 2
 y = x * 2
 x = x + y
 print(x, y)
+````
+[Solutions File](solutions.py)
