@@ -1,1 +1,1 @@
-print ('salam bar hamegi')
+print ('salam bar hamegi doostan')
